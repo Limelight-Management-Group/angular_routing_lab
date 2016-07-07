@@ -52,6 +52,7 @@ app.factory('WineService', function(){
 
 
 
+
 /*
  * Temporary Mock JSON
  * Eventually we will retrieve this data using AJAX
